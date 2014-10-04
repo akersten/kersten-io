@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/kersten
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kersten.io
+  * I am kersten (https://keybase.io/kersten) on keybase.
+  * I have a public key with fingerprint 6451 6F6F ECA5 EF02 3BFC  2387 1A0E 69B4 A3C2 873E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "64516f6feca5ef023bfc23871a0e69b4a3c2873e",
+            "host": "keybase.io",
+            "key_id": "1a0e69b4a3c2873e",
+            "uid": "2c50f137b9d7a2fa71d4f5157782b500",
+            "username": "kersten"
+        },
+        "service": {
+            "hostname": "kersten.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412182523,
+    "expire_in": 157680000,
+    "prev": "c82412950d3dcd73d61f01a40f5f2fe661a4233f5b4040250c5ef68c29a7eb98",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMHcAnicO8LLzMDFePN+sKfZsskHGU8feFfKEKJj+LtaKSk/pVLJqlopOxVMpWXm
+pacWFRRl5pUoWSmZmZgamqWZpaUmJ5qmphkYGSelJRsZW5gbJhqkmlkmmSQaJxtZ
+mBunKukoZeQXg3QAjUlKLE7Vy8wHigE58ZkpQFEs6kvBEkbJpgZphsbmSZYp5olG
+aYnmhikmaaaGpubmFkZJpgYGIIXFqUV5ibmpYMOLiktS85RqdZSAgmWZyakgJ4Ns
+RlUAsb2gKL8kPzk/ByieUVJSYAXSVlJZAFJXnpoUDzUhPikzLwXoaaCGMqDuzPw8
+JStDoMrkkkyQkYYmhkaGFkamRsY6SqkVBZlFqfGZIBWm5mYWBkAAsia1DGhksoUR
+UKmlqUGKcUpyirlxiplhmoFhoolBmmmaUVqqmRmQbWRsnGaaZGJgYmBkapAMDFEz
+i2Qjy0Tz1CRLCyWQnwrz8pWsTIDOTEwHGlmcmZ6XWFJalKpUe+hADAsDIxcDGysT
+KNoYuDgFYJH5JZL9n2rHxJzr3Mav78wv2DZn2/vDhQLFf2Pu1FcFMgSb1Xolvna7
+r77ftXJ9z5r0lltT9+py5nOxF6xT79vRPC9AgXFH4VnX35fu331ro3j3hvi+yMlv
+V729E6y+wm3i4hllAgHWLSIShp2ZN7SqpkRciuFMjOC5bCXKFrNxbXO409LFqixX
+kgwWaFmEL1nw07y9/uI7B8mfOYuvLL+3In/hC75ONSbmRZmBPPq80vO8vX5uLuOY
+ez4wgjdv2yqhDk5lP9vzDzZGBa0KfysuZhap8mO6xyo+13ns21x+h9R/ZnrIllgz
+sc7uZqNwV7rgfsm277pej9XurpKbk887K5pfNPzBlgVHsr4vmOh/l30fAJU/DJ8=
+=kyzs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kersten
+
+==================================================================
+
