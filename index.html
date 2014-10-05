@@ -8,6 +8,7 @@
     <title>Alex Kersten</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 </head>
 <body>
 <div class="container">
@@ -25,22 +26,44 @@
         </div>
     </div>
 
+    <!--
     <div class="page-header">
         <h2>Projects</h2>
+        <p>Click on any of the project images for a live demo.</p>
     </div>
+    -->
 
     <!-- Portfolio rows. -->
     <!-- On small screens these should be full-width. -->
     <div class="row">
-        <div class="col-md-6 col.sm-12">
-            <div class="thumbnail">
-                <a href="http://kersten.io/hexy">
-                    <img src="img/thumb-hexy.png" alt="hexy, a hexagon game" title="hexy, a two-player logic game" />
+        <div class="col-md-6 col-sm-12">
+            <div class="thumbnail thumb-hider" title="mazegame, a 3D first-person maze demo">
+                <a href="http://kersten.io/mazegame">
+                    <img src="img/thumb-mazegame.png" alt="mazegame, a 3D first-person maze demo" />
                 </a>
+                <div class="thumb-hidden">
+                    <br />
+                    <a class="btn btn-default" href="https://github.com/akersten/mazegame">GitHub</a>
+                    <a class="btn btn-default" href="http://dividebyxero.com/blog/2014/01/15/maze-game/">Blog</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-sm-12">
+            <div class="thumbnail thumb-hider">
+                <a href="http://kersten.io/hexy">
+                    <img src="img/thumb-hexy.png" alt="hexy, a two-player logic game" title="hexy, a two-player logic game" />
+                </a>
+                <div class="thumb-hidden">
+                    <br />
+                    <a class="btn btn-default" href="https://github.com/akersten/hexy">GitHub</a>
+                    <a class="btn btn-default" href="http://dividebyxero.com/blog/2012/09/07/adventures-in-wonderland-html5-and-canvas/">Blog (1)</a>
+                    <a class="btn btn-default" href="http://dividebyxero.com/blog/binaries/hexy/">Blog (2)</a>
+                </div>
             </div>
         </div>
         <!--
-        <div class="col-md-6 col.sm-12">
+        <div class="col-md-6 col-sm-12">
             <div class="thumbnail" title="">
                 <a href="#">
                     <img src="img/" alt="" />

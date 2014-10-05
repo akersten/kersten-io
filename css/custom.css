@@ -1,0 +1,10 @@
+/**
+ * Rule for expansion of hidden areas of the thumbnails when someone hovers over them.
+ */
+.thumb-hider:hover .thumb-hidden {
+    display: block;
+}
+
+.thumb-hidden {
+    display: none;
+}
